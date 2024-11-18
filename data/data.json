@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Mocha Ice Cappuccino",
+      "description": "A rich and creamy coffee with chocolate and ice, perfect for a cold day."
+    },
+    {
+      "id": 2,
+      "name": "Espresso",
+      "description": "A concentrated coffee made by forcing a small amount of nearly boiling water through finely-ground coffee beans."
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "description": "A smooth and creamy coffee made with espresso and steamed milk."
+    },
+    {
+      "id": 4,
+      "name": "Cappuccino",
+      "description": "An espresso-based coffee with steamed milk and a layer of frothy milk foam."
+    },
+    {
+      "id": 5,
+      "name": "Americano",
+      "description": "Espresso diluted with hot water for a smoother taste, similar to a regular drip coffee."
+    },
+    {
+      "id": 6,
+      "name": "Flat White",
+      "description": "A coffee made with espresso and steamed milk, creating a velvety, rich flavor with a balanced ratio of coffee to milk."
+    }
+  ]
+  
